@@ -14,6 +14,7 @@
   - todos.md / logs.md / ideas.md / kpi.md
 - ai-uranai/:AI占い事業
   - todos.md / logs.md / ideas.md / kpi.md
+- ideas.md(ACP直下):特定の事業(listing-ads/ai-uranai等)に限らない、ACP全体に関わるアイデア・構想を記録する
 - 新規事業が立ち上がった場合は、都度この下にフォルダを追加する
 
 ## 標準目標(常に意識すること)
